@@ -40,7 +40,7 @@ a. SAN値論理とは
 <br>
 処理系は、以下で得られる。<br>
 * <a href="sanchi-pro.lisp" target="_blank"> SAN値Prolog 処理系ソース (文字コードは、utf-8)</a>  
-* <a href="http://www.takeoka.org/~take/ailabo/prolog/sanchi-prolog/sanchi-prolog.pdf" target="_blank"> 資料:「SAN値論理と名状しがたいSAN値Prolog」 </a>  
+* <a href="sanchi-prolog.pdf" target="_blank"> 資料:「SAN値論理と名状しがたいSAN値Prolog」 </a>  
 
 <br><br>
 
