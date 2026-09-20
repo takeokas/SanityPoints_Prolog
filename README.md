@@ -9,7 +9,7 @@
 
 SAN値 Prologは、たけおかが考案した、SAN値論理に基づく論理型言語である。  
 
-a. SAN値論理とは  
+### SAN値論理とは  
  SAN値とは「頭の正気度」を表す数値である。  
  SAN値が0だと、完全に気がアレである。  
 <br>
@@ -39,8 +39,8 @@ a. SAN値論理とは
 
 <br>
 処理系は、以下で得られる。<br>
-* <a href="sanchi-pro.lisp" target="_blank"> SAN値Prolog 処理系ソース (文字コードは、utf-8)</a>  
-* <a href="sanchi-prolog.pdf" target="_blank"> 資料:「SAN値論理と名状しがたいSAN値Prolog」 </a>  
+* <a href="sanchi-pro.lisp" target="_blank"> SAN値Prolog 処理系ソース (文字コードは、utf-8)</a>  <br>
+* <a href="sanchi-prolog.pdf" target="_blank"> 資料:「SAN値論理と名状しがたいSAN値Prolog」 </a>  <br>
 
 <br><br>
 
