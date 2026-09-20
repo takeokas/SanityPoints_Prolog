@@ -1,11 +1,9 @@
 # SAN値 Prolog (ver.2)マニュアル  
-### last update: 2012/APR/24  
-### 初出: 2012/APR/23  
-
+### last update: 2012/APR/24 , 初出: 2012/APR/23  
 ### <a href="http://www.takeoka.org/~take/" target="_blank"> たけおか (竹岡尚三)</a>  
 
  <img src="nyaruko.jpg" WIDTH="250">
-
+<br><br>
 
 ## 0. SAN値 Prolog について  
 
@@ -41,25 +39,15 @@ a. SAN値論理とは
 
 <br>
 処理系は、以下で得られる。<br>
-
-* <a href="sanchi-pro.lisp" target="_blank"> SAN値Prolog 処理系ソース (文字コードは、utf-8)</a>
-* <a href="http://www.takeoka.org/~take/ailabo/prolog/sanchi-prolog/sanchi-pro.lsp" target="_blank">
-SAN値Prolog 処理系ソース (文字コードは、utf-8)</a>
-* <a href="http://www.takeoka.org/~take/ailabo/prolog/sanchi-prolog/sanchi-prolog.pdf" target="_blank">
-資料:「SAN値論理と名状しがたいSAN値Prolog」 </a>
+* <a href="sanchi-pro.lisp" target="_blank"> SAN値Prolog 処理系ソース (文字コードは、utf-8)</a>  
+* <a href="http://www.takeoka.org/~take/ailabo/prolog/sanchi-prolog/sanchi-prolog.pdf" target="_blank"> 資料:「SAN値論理と名状しがたいSAN値Prolog」 </a>  
 
 <br><br>
 
  参考:
- <ul>
- <li><a href="http://nyaruko.com/" target="_blank">
-名状しがたいアニメ「這いよれ！ニャル子さん」オフィシャルサイトのような ...
-</a>
- <li><a href="http://ja.wikipedia.org/wiki/%E9%80%99%E3%81%84%E3%82%88%E3%82%8C!_%E3%83%8B%E3%83%A3%E3%83%AB%E5%AD%90%E3%81%95%E3%82%93" target="_blank">
-Wikipedia:「這いよれ! ニャル子さん」の項</a>
- <li><a href="http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%88%E3%82%A5%E3%83%AB%E3%83%95%E3%81%AE%E5%91%BC%E3%81%B3%E5%A3%B0#.E6.AD.A3.E6.B0.97.E3.81.A8.E7.8B.82.E6.B0.97" target="_blank">
-Wikipedia:「クトゥルフの呼び声#正気と狂気」の項</a>
- </ul>
+* <a href="http://nyaruko.com/" target="_blank"> 名状しがたいアニメ「這いよれ！ニャル子さん」オフィシャルサイトのような ... </a>  
+* <a href="http://ja.wikipedia.org/wiki/%E9%80%99%E3%81%84%E3%82%88%E3%82%8C!_%E3%83%8B%E3%83%A3%E3%83%AB%E5%AD%90%E3%81%95%E3%82%93" target="_blank"> Wikipedia:「這いよれ! ニャル子さん」の項</a>  
+* <a href="http://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%88%E3%82%A5%E3%83%AB%E3%83%95%E3%81%AE%E5%91%BC%E3%81%B3%E5%A3%B0#.E6.AD.A3.E6.B0.97.E3.81.A8.E7.8B.82.E6.B0.97" target="_blank"> Wikipedia:「クトゥルフの呼び声#正気と狂気」の項</a>  
 
 <br>
 <br>
